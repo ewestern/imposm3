@@ -4,7 +4,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/omniscale/imposm3/element"
+	"github.com/ewestern/imposm3/element"
 )
 
 func (m *Mapping) NodeTagFilter() TagFilterer {

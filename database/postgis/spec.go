@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/omniscale/imposm3/mapping"
+	"github.com/ewestern/imposm3/mapping"
 )
 
 type ColumnSpec struct {

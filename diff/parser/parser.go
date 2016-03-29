@@ -6,8 +6,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/omniscale/imposm3/element"
-	"github.com/omniscale/imposm3/logging"
+	"github.com/ewestern/imposm3/element"
+	"github.com/ewestern/imposm3/logging"
 )
 
 var log = logging.NewLogger("osc parser")

@@ -6,12 +6,12 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/omniscale/imposm3/cache/query"
-	"github.com/omniscale/imposm3/config"
-	"github.com/omniscale/imposm3/diff"
-	"github.com/omniscale/imposm3/import_"
-	"github.com/omniscale/imposm3/logging"
-	"github.com/omniscale/imposm3/stats"
+	"github.com/ewestern/imposm3/cache/query"
+	"github.com/ewestern/imposm3/config"
+	"github.com/ewestern/imposm3/diff"
+	"github.com/ewestern/imposm3/import_"
+	"github.com/ewestern/imposm3/logging"
+	"github.com/ewestern/imposm3/stats"
 )
 
 var log = logging.NewLogger("")

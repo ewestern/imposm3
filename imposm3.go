@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/omniscale/imposm3/cmd"
+	"github.com/ewestern/imposm3/cmd"
 )
 
 func main() {

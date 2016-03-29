@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/omniscale/imposm3/element"
+	"github.com/ewestern/imposm3/element"
 )
 
 func TestDiffCache(t *testing.T) {

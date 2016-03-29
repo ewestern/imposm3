@@ -2,7 +2,7 @@ package stats
 
 import (
 	"fmt"
-	"github.com/omniscale/imposm3/logging"
+	"github.com/ewestern/imposm3/logging"
 	"time"
 )
 

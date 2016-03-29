@@ -3,14 +3,14 @@ package writer
 import (
 	"sync"
 
-	"github.com/omniscale/imposm3/cache"
-	"github.com/omniscale/imposm3/database"
-	"github.com/omniscale/imposm3/element"
-	"github.com/omniscale/imposm3/expire"
-	geomp "github.com/omniscale/imposm3/geom"
-	"github.com/omniscale/imposm3/geom/geos"
-	"github.com/omniscale/imposm3/mapping"
-	"github.com/omniscale/imposm3/stats"
+	"github.com/ewestern/imposm3/cache"
+	"github.com/ewestern/imposm3/database"
+	"github.com/ewestern/imposm3/element"
+	"github.com/ewestern/imposm3/expire"
+	geomp "github.com/ewestern/imposm3/geom"
+	"github.com/ewestern/imposm3/geom/geos"
+	"github.com/ewestern/imposm3/mapping"
+	"github.com/ewestern/imposm3/stats"
 )
 
 type WayWriter struct {

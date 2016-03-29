@@ -151,8 +151,8 @@ Then you need to enable GO15VENDOREXPERIMENT, if you are using Go 1.5. You can s
 
 Get the code and install Imposm 3:
 
-    go get github.com/omniscale/imposm3
-    go install github.com/omniscale/imposm3
+    go get github.com/ewestern/imposm3
+    go install github.com/ewestern/imposm3
 
 Done. You should now have an imposm3 binary in `$GOPATH/bin`.
 
@@ -214,9 +214,9 @@ For commercial support [contact Omniscale](http://omniscale.com/contact).
 Development
 -----------
 
-The source code is available at: <https://github.com/omniscale/imposm3/>
+The source code is available at: <https://github.com/ewestern/imposm3/>
 
-You can report any issues at: <https://github.com/omniscale/imposm3/issues>
+You can report any issues at: <https://github.com/ewestern/imposm3/issues>
 
 License
 -------

@@ -2,7 +2,7 @@ package binary
 
 import (
 	"github.com/golang/protobuf/proto"
-	"github.com/omniscale/imposm3/element"
+	"github.com/ewestern/imposm3/element"
 )
 
 const COORD_FACTOR float64 = 11930464.7083 // ((2<<31)-1)/360.0

@@ -1,7 +1,7 @@
 package binary
 
 import (
-	"github.com/omniscale/imposm3/element"
+	"github.com/ewestern/imposm3/element"
 	"sort"
 	"testing"
 )

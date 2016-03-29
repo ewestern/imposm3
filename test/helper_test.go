@@ -8,17 +8,17 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/omniscale/imposm3/element"
+	"github.com/ewestern/imposm3/element"
 
-	"github.com/omniscale/imposm3/cache"
+	"github.com/ewestern/imposm3/cache"
 
 	"github.com/lib/pq/hstore"
 
-	"github.com/omniscale/imposm3/diff"
-	"github.com/omniscale/imposm3/geom/geos"
+	"github.com/ewestern/imposm3/diff"
+	"github.com/ewestern/imposm3/geom/geos"
 
-	"github.com/omniscale/imposm3/config"
-	"github.com/omniscale/imposm3/import_"
+	"github.com/ewestern/imposm3/config"
+	"github.com/ewestern/imposm3/import_"
 )
 
 const (

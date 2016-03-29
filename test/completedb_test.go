@@ -4,15 +4,15 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/omniscale/imposm3/cache"
+	"github.com/ewestern/imposm3/cache"
 
-	"github.com/omniscale/imposm3/element"
-	"github.com/omniscale/imposm3/geom"
-	"github.com/omniscale/imposm3/proj"
+	"github.com/ewestern/imposm3/element"
+	"github.com/ewestern/imposm3/geom"
+	"github.com/ewestern/imposm3/proj"
 
 	"testing"
 
-	"github.com/omniscale/imposm3/geom/geos"
+	"github.com/ewestern/imposm3/geom/geos"
 )
 
 var ts importTestSuite

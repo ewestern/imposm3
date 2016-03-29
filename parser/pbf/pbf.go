@@ -1,8 +1,8 @@
 package pbf
 
 import (
-	"github.com/omniscale/imposm3/element"
-	"github.com/omniscale/imposm3/parser/pbf/osmpbf"
+	"github.com/ewestern/imposm3/element"
+	"github.com/ewestern/imposm3/parser/pbf/osmpbf"
 )
 
 const coord_factor float64 = 11930464.7083 // ((2<<31)-1)/360.0

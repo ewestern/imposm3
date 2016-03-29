@@ -7,7 +7,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/omniscale/imposm3/element"
+	"github.com/ewestern/imposm3/element"
 )
 
 func mknode(id int64) element.Node {
